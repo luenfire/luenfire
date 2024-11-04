@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luenfire
-- 👀 I’m interested in front end web stuff
-- 🌱 I’m currently learning how to work with shopify specifically
-
+- 👋 hi, i’m @luenfire
+- 💻 i dabble in javascript and python
+- 💤 these days i work a lot with api's
+- ⛓️ im working towards becoming a kinky porn artist
